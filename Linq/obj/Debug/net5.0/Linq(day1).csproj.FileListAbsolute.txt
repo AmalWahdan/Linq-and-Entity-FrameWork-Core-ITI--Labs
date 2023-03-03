@@ -1,0 +1,16 @@
+E:\9M\Linq\Linq(day1)\bin\Debug\net5.0\Linq(day1).exe
+E:\9M\Linq\Linq(day1)\bin\Debug\net5.0\Linq(day1).deps.json
+E:\9M\Linq\Linq(day1)\bin\Debug\net5.0\Linq(day1).runtimeconfig.json
+E:\9M\Linq\Linq(day1)\bin\Debug\net5.0\Linq(day1).runtimeconfig.dev.json
+E:\9M\Linq\Linq(day1)\bin\Debug\net5.0\Linq(day1).dll
+E:\9M\Linq\Linq(day1)\bin\Debug\net5.0\Linq(day1).pdb
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\Linq(day1).csproj.AssemblyReference.cache
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\Linq(day1).GeneratedMSBuildEditorConfig.editorconfig
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\Linq(day1).AssemblyInfoInputs.cache
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\Linq(day1).AssemblyInfo.cs
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\Linq(day1).csproj.CoreCompileInputs.cache
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\Linq(day1).dll
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\refint\Linq(day1).dll
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\Linq(day1).pdb
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\Linq(day1).genruntimeconfig.cache
+E:\9M\Linq\Linq(day1)\obj\Debug\net5.0\ref\Linq(day1).dll
